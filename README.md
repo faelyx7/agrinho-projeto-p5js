@@ -1,0 +1,1 @@
+Projeto do agrinho demonstra que as plantações da arvores em uma área de terreno que você planta as arvores é um lugar muito quente que você tem que tomar cuidado com a temperatura para não perder o jogo e não queimar as arvores.
